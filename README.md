@@ -1,6 +1,6 @@
-# es_runcommand_splash
+# RetroPie Splash Screens
 
-Splash screens for RetroPie runcommand screen.
+Splash screens for RetroPie's runcommand screen.
 
 ## Credits
 
